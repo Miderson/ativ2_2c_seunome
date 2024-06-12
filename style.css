@@ -1,0 +1,9 @@
+Body {background-color: aqua;
+}
+
+@media screen and (max-width: 600px){
+
+    .part1 {color:brown;
+        font-size: 150%;
+    }
+} 
