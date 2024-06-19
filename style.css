@@ -12,3 +12,10 @@ Body {background-color: aqua;
         border-width: 6px;
     }
     
+    .part3 {border-color: rgb(255, 0, 43);
+        border-style: outset;
+       border-width: 10px;
+   }
+
+   .part3 { margin-left: 10%;
+}
